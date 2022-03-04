@@ -1777,7 +1777,7 @@ this.wordle = this.wordle || {}, this.wordle.bundle = function (e) {
                                                     break;
                                                 case Na:
                                                     a = function (e) {
-                                                        return e ? "⬛" : "🧻"
+                                                        return e ? "🧻" : "🧻"
                                                     }(r)
                                             }
                                             d += a
